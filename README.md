@@ -8,6 +8,7 @@ This project implements a simplified DNS (Domain Name System) protocol, called s
 ### 1. Running the server:
 To run the server, use the following command:
 ```bash
+cd CODE/
 make server
 ```
 Make sure to run the server before the client.
@@ -15,6 +16,7 @@ Make sure to run the server before the client.
 ### 3. Running the client:
 To run client, use the following command in a different terminal:
 ```bash
+cd CODE/
 make client
 ```
 
