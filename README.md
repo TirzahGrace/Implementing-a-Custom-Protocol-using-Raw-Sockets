@@ -1,8 +1,5 @@
 # simDNS Protocol Implementation
 
-## Author:
-- Tirzah Grace (21CS10071)
-
 ## Description:
 This project implements a simplified DNS (Domain Name System) protocol, called simDNS, using raw sockets in C. The simDNS protocol allows a client to send a query for the IP address corresponding to a domain name, and the server responds with the IP address.
 
