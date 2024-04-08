@@ -23,3 +23,6 @@ make client
 ## Note:
 - Run the server and Client in seperate Terminals.
 - Ensure that the server is running before you run the client.
+
+## Author:
+- Tirzah Grace Y (21CS10071)
